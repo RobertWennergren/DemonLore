@@ -1,4 +1,4 @@
-package com.datx02-15-38.demonlore;
+package com.sadfrogindustries.demonlore;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;

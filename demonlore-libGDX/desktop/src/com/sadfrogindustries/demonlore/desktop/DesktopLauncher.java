@@ -1,8 +1,8 @@
-package com.datx02-15-38.demonlore.desktop;
+package com.sadfrogindustries.demonlore.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import com.datx02-15-38.demonlore.DemonLore;
+import com.sadfrogindustries.demonlore.DemonLore;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
